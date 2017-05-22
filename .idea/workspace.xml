@@ -25,17 +25,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyPDO.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyPDO.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyPDO.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+            <state relative-caret-position="293">
+              <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
               <folding>
-                <marker date="1495383521608" expanded="true" signature="2056:2075" placeholder="UPDATE `${$t... " />
-                <marker date="1495383521608" expanded="true" signature="2056:2076" placeholder="UPDATE `${$t... " />
-                <marker date="1495383521608" expanded="true" signature="2056:2089" placeholder="UPDATE `${$t... " />
-                <marker date="1495383521608" expanded="true" signature="2056:2090" placeholder="UPDATE `${$t... " />
+                <marker date="1495466067946" expanded="true" signature="2056:2075" placeholder="UPDATE `${$t... " />
+                <marker date="1495466067946" expanded="true" signature="2056:2076" placeholder="UPDATE `${$t... " />
+                <marker date="1495466067946" expanded="true" signature="2056:2089" placeholder="UPDATE `${$t... " />
+                <marker date="1495466067946" expanded="true" signature="2056:2090" placeholder="UPDATE `${$t... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyPDOP.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyPDOP.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,6 +64,7 @@
         <option value="$PROJECT_DIR$/logs/mylog20170520.log" />
         <option value="$PROJECT_DIR$/public/common.php" />
         <option value="$PROJECT_DIR$/MyPDO.php" />
+        <option value="$PROJECT_DIR$/MyPDOP.php" />
       </list>
     </option>
   </component>
@@ -68,7 +79,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="302" />
-    <option name="y" value="43" />
+    <option name="y" value="2" />
     <option name="width" value="1024" />
     <option name="height" value="726" />
   </component>
@@ -176,18 +187,18 @@
       <option name="presentableId" value="Default" />
       <updated>1495262326463</updated>
       <workItem from="1495262328538" duration="12123000" />
-      <workItem from="1495352994672" duration="1940000" />
+      <workItem from="1495352994672" duration="5121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14063000" />
+    <option name="totallyTimeSpent" value="17244000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="302" y="43" width="1024" height="726" extended-state="0" />
+    <frame x="302" y="2" width="1024" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35373443" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18775934" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -248,14 +259,22 @@
     <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$PROJECT_DIR$/MyPDO.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+        <state relative-caret-position="293">
+          <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
           <folding>
-            <marker date="1495383521608" expanded="true" signature="2056:2075" placeholder="UPDATE `${$t... " />
-            <marker date="1495383521608" expanded="true" signature="2056:2076" placeholder="UPDATE `${$t... " />
-            <marker date="1495383521608" expanded="true" signature="2056:2089" placeholder="UPDATE `${$t... " />
-            <marker date="1495383521608" expanded="true" signature="2056:2090" placeholder="UPDATE `${$t... " />
+            <marker date="1495466067946" expanded="true" signature="2056:2075" placeholder="UPDATE `${$t... " />
+            <marker date="1495466067946" expanded="true" signature="2056:2076" placeholder="UPDATE `${$t... " />
+            <marker date="1495466067946" expanded="true" signature="2056:2089" placeholder="UPDATE `${$t... " />
+            <marker date="1495466067946" expanded="true" signature="2056:2090" placeholder="UPDATE `${$t... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPDOP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
